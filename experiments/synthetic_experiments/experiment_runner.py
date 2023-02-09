@@ -1,0 +1,8 @@
+from experiments.synthetic_experiments.experiment_setups.extractor_evaluation import extractor_evaluation_experiment
+from experiments.synthetic_experiments.experiment_setups.concept_interpretation_alignment import interpretation_alignment_experiment
+from experiments.synthetic_experiments.experiment_setups.completeness_experiment import interpretation_completeness_experiment
+
+def run_synthetic_experiments():
+    # extractor_evaluation_experiment()
+    # interpretation_alignment_experiment()
+    interpretation_completeness_experiment()
