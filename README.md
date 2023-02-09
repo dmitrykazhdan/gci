@@ -25,7 +25,7 @@ a practical application of GCI to molecular property prediction, in which we dem
 _functional groups_ to explain GNNs trained on molecular property prediction tasks, and implement 
 interpretations with a 0.76 AUCROC completeness score.
 
-![alt text](https://github.com/dmitrykazhdan/CME/blob/master/figures/vis_abs.png)
+![alt text](https://github.com/dmitrykazhdan/gci/blob/master/figures/vis_abs.png)
 
 
 ## Citing
