@@ -33,7 +33,10 @@ interpretations with a 0.76 AUCROC completeness score.
 If you find this code useful in your research, please consider citing:
 
 ```
-@article{
-TBC
+@article{kazhdan2023gci,
+  title={GCI: A (G) raph (C) oncept (I) nterpretation Framework},
+  author={Kazhdan, Dmitry and Dimanov, Botty and Magister, Lucie Charlotte and Barbiero, Pietro and Jamnik, Mateja and Lio, Pietro},
+  journal={arXiv preprint arXiv:2302.04899},
+  year={2023}
 }
 ```
